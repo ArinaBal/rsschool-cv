@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv (Markdown &amp; Git)
+https://ArinaBal.github.io/rsschool-cv/cv
